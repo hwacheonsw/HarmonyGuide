@@ -5,15 +5,15 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.40</title>
-      <pubDate>Thu, 02 Jul 2026 15:46:24 +0900</pubDate>
+      <title>Version 1.0.1.41</title>
+      <pubDate>Fri, 03 Jul 2026 08:27:29 +0900</pubDate>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.40/HarmonyGuideSetup-1.0.1.40.exe"
-      	sparkle:version="1.0.1.40"
-      	sparkle:shortVersionString="1.0.1.40"
-      	sparkle:edSignature="tgzik+/mKTln/b8Vcorg4O3SlHW+4LZbxcCHB6+XAZENfX0qWhD9Q6M82u0tEFkwVLvdCjHEz4CqIyhS9Y+RAA=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.41/HarmonyGuideSetup-1.0.1.41.exe"
+      	sparkle:version="1.0.1.41"
+      	sparkle:shortVersionString="1.0.1.41"
+      	sparkle:edSignature="YKb2jzdbgQ8hgUhqk2rzMOE07079PQoGPa2WWSlir9stON681JqhzbKs5kvAl9w9XgC1k/3sEJGOHnJdLv7NDA=="
       	sparkle:os="windows"
-      	length="16649341"
+      	length="16649316"
       	type="application/octet-stream"
       />
     </item>
