@@ -5,16 +5,16 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.42</title>
-      <pubDate>Fri, 03 Jul 2026 09:17:28 +0900</pubDate>
-      <description><![CDATA[CC 버튼의 위치를 변경합니다.]]></description>
+      <title>Version 1.0.1.43</title>
+      <pubDate>Fri, 03 Jul 2026 16:30:37 +0900</pubDate>
+      <description><![CDATA[ReleaseNote를 입력하는 프로세스를 추가하였습니다.]]></description>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.42/HarmonyGuideSetup-1.0.1.42.exe"
-      	sparkle:version="1.0.1.42"
-      	sparkle:shortVersionString="1.0.1.42"
-      	sparkle:edSignature="Donf3xMGQuiKtVlOjtKCUputF3K8MV2MYI52tdo35DYMaiD0hL/tfEScTP6Rypf378Mg2KhOupGas7r8/l6jBQ=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.43/HarmonyGuideSetup-1.0.1.43.exe"
+      	sparkle:version="1.0.1.43"
+      	sparkle:shortVersionString="1.0.1.43"
+      	sparkle:edSignature="er9nHY8E0giwIGsqBoVsUta5ghy+Bdh5QPOcn+iVoMDNpSR2uDTQeD0kQGVNaBxos3ZrYCGeSfGNbQapaxL6Ag=="
       	sparkle:os="windows"
-      	length="16649300"
+      	length="16649604"
       	type="application/octet-stream"
       />
     </item>
