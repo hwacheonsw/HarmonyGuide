@@ -5,16 +5,16 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.44</title>
-      <pubDate>Tue, 07 Jul 2026 14:56:00 +0900</pubDate>
-      <description><![CDATA[키보드의 Space로 일시정지와 재생이 되도록 기능을 추가합니다.]]></description>
+      <title>Version 1.0.1.45</title>
+      <pubDate>Thu, 16 Jul 2026 14:33:24 +0900</pubDate>
+      <description><![CDATA[아이콘/버튼 디자인을 변경합니다.]]></description>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.44/HarmonyGuideSetup-1.0.1.44.exe"
-      	sparkle:version="1.0.1.44"
-      	sparkle:shortVersionString="1.0.1.44"
-      	sparkle:edSignature="Q+fKOr93zwsr1R8Edi7lsdObmIejxUlz2bryWoNqRFgWYF9+ByJOENwh/zuX4zZFVxoCxh04fDPoZjKjaoBMAw=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.45/HarmonyGuideSetup-1.0.1.45.exe"
+      	sparkle:version="1.0.1.45"
+      	sparkle:shortVersionString="1.0.1.45"
+      	sparkle:edSignature="Mm8dP2gmvO+WsXKn/QR1r9OGTLBfXlKtnTOIe4fJTGN6+8SbWR+Xlehlnf6R3I5eA0VDmReQEehePVgFbOx0DA=="
       	sparkle:os="windows"
-      	length="16691267"
+      	length="16657043"
       	type="application/octet-stream"
       />
     </item>
