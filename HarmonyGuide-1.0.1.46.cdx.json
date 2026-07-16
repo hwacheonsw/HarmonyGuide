@@ -1,0 +1,834 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.7",
+  "serialNumber": "urn:uuid:3eebda14-ecb4-4267-a2be-44c0358a835a",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-07-16T06:49:11Z",
+    "tools": {
+      "components": [
+        {
+          "type": "application",
+          "authors": [
+            {
+              "name": "CycloneDX"
+            }
+          ],
+          "name": "CycloneDX module for .NET",
+          "version": "6.2.0.0",
+          "externalReferences": [
+            {
+              "url": "https://github.com/CycloneDX/cyclonedx-dotnet",
+              "type": "website"
+            }
+          ]
+        }
+      ]
+    },
+    "component": {
+      "type": "application",
+      "bom-ref": "HarmonyGuide@1.0.1.46",
+      "name": "HarmonyGuide",
+      "version": "1.0.1.46"
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.7",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "Microsoft.Bcl.AsyncInterfaces",
+      "version": "10.0.7",
+      "description": "Provides the IAsyncEnumerable\u003CT\u003E and IAsyncDisposable interfaces and helper types for .NET Standard 2.0. This package is not required starting with .NET Standard 2.1 and .NET Core 3.0.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "0CEC3099B230679A5FF9D6D17C766765AE446FA90A3DF22DBDB4A19A3064463C0640DEDC73F12F7FA6C7E169BABAACA2229802816AC16B6615234DB5974AB4DB"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.7",
+      "externalReferences": [
+        {
+          "url": "https://dot.net/",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/dotnet",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Data.Sqlite.Core@7.0.20",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "Microsoft.Data.Sqlite.Core",
+      "version": "7.0.20",
+      "description": "Microsoft.Data.Sqlite is a lightweight ADO.NET provider for SQLite. This package does not include a copy of the native SQLite library.\n\nCommonly Used Types:\nMicrosoft.Data.Sqlite.SqliteCommand\nMicrosoft.Data.Sqlite.SqliteConnection\nMicrosoft.Data.Sqlite.SqliteConnectionStringBuilder\nMicrosoft.Data.Sqlite.SqliteDataReader\nMicrosoft.Data.Sqlite.SqliteException\nMicrosoft.Data.Sqlite.SqliteFactory\nMicrosoft.Data.Sqlite.SqliteParameter\nMicrosoft.Data.Sqlite.SqliteTransaction",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "AA4CEB81465D0DF61EF50784EE41858AAFD941AE2DFCE182B06B6363986481E9DDF6D26D56F3BA43E5F97732AE47FA7EC2E57D2FBFA769FD5507999311B4BC9A"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/Microsoft.Data.Sqlite.Core@7.0.20",
+      "externalReferences": [
+        {
+          "url": "https://docs.microsoft.com/dotnet/standard/data/sqlite/",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/efcore",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Web.WebView2@1.0.2903.40",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "Microsoft.Web.WebView2",
+      "version": "1.0.2903.40",
+      "description": "The WebView2 control enables you to embed web technologies (HTML, CSS, and JavaScript) in your native applications powered by Microsoft Edge (Chromium).\nThis package is necessary for Win32 C/C\u002B\u002B, WPF, and WinForms applications. To learn more about package versions checkout https://aka.ms/wv2-packageversion. To learn best practices checkout: https://aka.ms/wv2-bestpractices.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "A432D2AE9CA66B7C723865E5C37028C32ED771E05D7896EE919CCA2D574F085BF27E79FC3EB08BCA5327E9CE39EA36B44DC38E6A5F0875009538D0D153638693"
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/Microsoft.Web.WebView2@1.0.2903.40",
+      "externalReferences": [
+        {
+          "url": "https://aka.ms/webview",
+          "type": "website"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/NetSparkleUpdater.Chaos.NaCl@0.9.4",
+      "authors": [
+        {
+          "name": "Deadpikle, CodesInChaos"
+        }
+      ],
+      "name": "NetSparkleUpdater.Chaos.NaCl",
+      "version": "0.9.4",
+      "description": "See https://github.com/NetSparkleUpdater/Chaos.NaCl and README for package information. This NuGet package was originally created for NetSparkleUpdater\u0027s ed25519 functionality.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "973C2B3CB69AEF24BB3240339FE3E5C18656240B05E0D1B9F2E018E9133E96F808C1668411F2E53D16847EAD33202D1CF3EFFD02D9165F10ED77ECAC2FFF6070"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "Copyright 2024",
+      "purl": "pkg:nuget/NetSparkleUpdater.Chaos.NaCl@0.9.4",
+      "externalReferences": [
+        {
+          "url": "https://github.com/NetSparkleUpdater/Chaos.NaCl/tree/main",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/NetSparkleUpdater/Chaos.NaCl/tree/main.git",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/NetSparkleUpdater.SparkleUpdater@3.1.0",
+      "authors": [
+        {
+          "name": "Deadpikle, Dirk Eisenberg"
+        }
+      ],
+      "name": "NetSparkleUpdater.SparkleUpdater",
+      "version": "3.1.0",
+      "description": "NetSparkleUpdater/NetSparkle is a C# .NET software update framework that allows you to easily download installer files and update your C# .NET Framework or .NET Core software. Built-in UIs are available for WinForms, WPF, and Avalonia; if you want a built-in UI, please reference a NetSparkleUpdater.UI package. You provide, somewhere on the internet, an XML appcast with software version information along with release notes in Markdown or HTML format. The NetSparkle framework then checks for an update in the background, displays the release notes to the user, and lets users download or skip the software update. The framework can also perform silent downloads so that you can present all of the UI yourself or set up your own silent software update system, as allowed by your software architecture. It was inspired by the Sparkle (https://sparkle-project.org/) project for Cocoa developers and the WinSparkle (https://winsparkle.org/) project (a Win32 port).",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "E5ACB9206C9CEC5D8979004654511D3DA23759A049075A45E7177083D1D5732262E13B8BDD4FC096FE4A5D2828D8F6B1D240BDB961A07BE2A90147D6969A8D0F"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "Copyright 2010 - 2025",
+      "purl": "pkg:nuget/NetSparkleUpdater.SparkleUpdater@3.1.0",
+      "externalReferences": [
+        {
+          "url": "https://github.com/NetSparkleUpdater/NetSparkle",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/NetSparkleUpdater/NetSparkle.git",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/NetSparkleUpdater.UI.WPF@3.1.0",
+      "authors": [
+        {
+          "name": "Deadpikle"
+        }
+      ],
+      "name": "NetSparkleUpdater.UI.WPF",
+      "version": "3.1.0",
+      "description": "NetSparkleUpdater/NetSparkle app updater framework with built-in WPF .NET Core and .NET Framework UI. NetSparkleUpdater/NetSparkle is a C# .NET software update framework that allows you to easily download installer files and update your C# .NET Framework or .NET Core software. Built-in UIs are available for WinForms, WPF, and Avalonia. You provide, somewhere on the internet, an XML appcast with software version information along with release notes in Markdown or HTML format. The NetSparkle framework then checks for an update in the background, displays the release notes to the user, and lets users download or skip the software update. The framework can also perform silent downloads so that you can present all of the UI yourself or set up your own silent software update system, as allowed by your software architecture. It was inspired by the Sparkle (https://sparkle-project.org/) project for Cocoa developers and the WinSparkle (https://winsparkle.org/) project (a Win32 port).",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "7A18BB928BF8303A17E95B09ABBF8482364DC4F6690743173053E54392D4FB5BEB21501DDFB336BD1E3457CBFEDA7DC6DF2BECC2AA7E46CB36579DA1889C5F70"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "Copyright \u00A9 2026",
+      "purl": "pkg:nuget/NetSparkleUpdater.UI.WPF@3.1.0",
+      "externalReferences": [
+        {
+          "url": "https://github.com/NetSparkleUpdater/NetSparkle",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/NetSparkleUpdater/NetSparkle.git",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/SQLitePCLRaw.bundle_e_sqlcipher@2.1.4",
+      "authors": [
+        {
+          "name": "Eric Sink"
+        }
+      ],
+      "name": "SQLitePCLRaw.bundle_e_sqlcipher",
+      "version": "2.1.4",
+      "description": "This \u0027batteries-included\u0027 bundle brings in SQLitePCLRaw.core and the necessary stuff for certain common use cases.  Call SQLitePCL.Batteries.Init().  Policy of this bundle: e_sqlcipher included",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "548BC9B7D122F5BF175EE4B910BB29C6CF14A7F34BD4790CCA6B3190EBC3C04B527BB25862CB51C33FD9F3EF7A449463C86026D0811F18E25D6A2EDF81B29E20"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ],
+      "copyright": "Copyright 2014-2023 SourceGear, LLC",
+      "purl": "pkg:nuget/SQLitePCLRaw.bundle_e_sqlcipher@2.1.4",
+      "externalReferences": [
+        {
+          "url": "https://github.com/ericsink/SQLitePCL.raw",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/SQLitePCLRaw.core@2.1.4",
+      "authors": [
+        {
+          "name": "Eric Sink"
+        }
+      ],
+      "name": "SQLitePCLRaw.core",
+      "version": "2.1.4",
+      "description": "SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  This package does not provide an API which is friendly to app developers.  Rather, it provides an API which handles platform and configuration issues, upon which a friendlier API can be built.  In order to use this package, you will need to also add one of the SQLitePCLRaw.provider.* packages and call raw.SetProvider().  Convenience packages are named SQLitePCLRaw.bundle_*.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "4A654A227445D97E0C3C00223F819B90D64746E7B2483C4FF0B69AE02D6D3F22A68DF7D6C00245AED6F2C51610DC29714FBE6765A8FBE42795F90448C04909D2"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ],
+      "copyright": "Copyright 2014-2023 SourceGear, LLC",
+      "purl": "pkg:nuget/SQLitePCLRaw.core@2.1.4",
+      "externalReferences": [
+        {
+          "url": "https://github.com/ericsink/SQLitePCL.raw",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/SQLitePCLRaw.lib.e_sqlcipher@2.1.4",
+      "authors": [
+        {
+          "name": "Eric Sink"
+        }
+      ],
+      "name": "SQLitePCLRaw.lib.e_sqlcipher",
+      "version": "2.1.4",
+      "description": "SQLitePCLRaw is a Portable Class Library (PCL) for low-level (raw) access to SQLite",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "415B88EB23BC0667EA9ADA3A68445E692DC0D09F5CE614588330694E99528F8EBBAB5D4190AE2317DD2466AF9290BF6ECFCDA5C4BF9E41BB860E5B4F9D0263CE"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ],
+      "copyright": "Copyright 2014-2023 SourceGear, LLC",
+      "purl": "pkg:nuget/SQLitePCLRaw.lib.e_sqlcipher@2.1.4",
+      "externalReferences": [
+        {
+          "url": "https://github.com/ericsink/SQLitePCL.raw",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/SQLitePCLRaw.provider.dynamic_cdecl@2.1.4",
+      "authors": [
+        {
+          "name": "Eric Sink"
+        }
+      ],
+      "name": "SQLitePCLRaw.provider.dynamic_cdecl",
+      "version": "2.1.4",
+      "description": "SQLitePCL.raw is a Portable Class Library (PCL) for low-level (raw) access to SQLite.  Packages named \u0027SQLitePCLRaw.provider.*\u0027 (like this one) are \u0027plugins\u0027 that allow SQLitePCLRaw.core to access the native SQLite library.  This provider dynamically loads the native library by name.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "017B5E19C931CBEA6F2C2C445EDDB72A761FCD2F410A76AFCBBE32BCE2B70209FEC02BE7D3866F0F460609E2BF23209A936133A5A43708DF0FB59240ABF28373"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "Apache-2.0"
+          }
+        }
+      ],
+      "copyright": "Copyright 2014-2023 SourceGear, LLC",
+      "purl": "pkg:nuget/SQLitePCLRaw.provider.dynamic_cdecl@2.1.4",
+      "externalReferences": [
+        {
+          "url": "https://github.com/ericsink/SQLitePCL.raw",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Buffers@4.6.1",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Buffers",
+      "version": "4.6.1",
+      "description": "System.Buffers",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "AAF7BF745C040B07A14969599A992BAE521E0130AFA3F1F0DA4A3232B515703072E605C042B9F05FCA47128AA08FC0E092B5AE596D43AD06C5AA831BA3E16FAE"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Buffers@4.6.1",
+      "externalReferences": [
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.IO.Pipelines@10.0.7",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.IO.Pipelines",
+      "version": "10.0.7",
+      "description": "Single producer single consumer byte buffer management.\n\nCommonly Used Types:\nSystem.IO.Pipelines.Pipe\nSystem.IO.Pipelines.PipeWriter\nSystem.IO.Pipelines.PipeReader",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "498A677C6807C8DE30D16969996D7359866F8EF8E0A3F6B90C5FA0E3B3C778914BDD6B294C296CE723C9CEDC3C24CEFE4E97880BB2293C5B27CF058FA169D03F"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.IO.Pipelines@10.0.7",
+      "externalReferences": [
+        {
+          "url": "https://dot.net/",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/dotnet",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Memory@4.6.3",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Memory",
+      "version": "4.6.3",
+      "description": "System.Memory",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "35770D6255A85DEE5CCFDB1BF07BA8EB1D9D099558921C0AB60134D27FCCA08F15E1923FEFFB7E108E5B3A14059597C58E3A8CF3E53AA6B8D4FDA011B7B1FFB4"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Memory@4.6.3",
+      "externalReferences": [
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Numerics.Vectors@4.6.1",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Numerics.Vectors",
+      "version": "4.6.1",
+      "description": "System.Numerics.Vectors",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "FEB92FA547943E5098FF6A985502A252C8F920A69765CCB6F924001807DE980772105E408088183853524CC5835E8D3D256157F4707EC15D720B28B63308B74C"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Numerics.Vectors@4.6.1",
+      "externalReferences": [
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Runtime.CompilerServices.Unsafe@6.1.2",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Runtime.CompilerServices.Unsafe",
+      "version": "6.1.2",
+      "description": "Provides the System.Runtime.CompilerServices.Unsafe class, which provides generic, low-level functionality for manipulating pointers.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "B76697589641900911AD33A7C37D4E0442CA1154830F962F0B73B975768716C47AEBF9D14CA9B5CB722AE8DC05239BB92252AB5987DD6A7EBA57E18A2A463C85"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Runtime.CompilerServices.Unsafe@6.1.2",
+      "externalReferences": [
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Text.Encodings.Web@10.0.7",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Text.Encodings.Web",
+      "version": "10.0.7",
+      "description": "Provides types for encoding and escaping strings for use in JavaScript, HyperText Markup Language (HTML), and uniform resource locators (URL).\n\nCommonly Used Types:\nSystem.Text.Encodings.Web.HtmlEncoder\nSystem.Text.Encodings.Web.UrlEncoder\nSystem.Text.Encodings.Web.JavaScriptEncoder",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "9675839EA9947A2679424C68DFF3A347B159A2419CD181830F3E36736E90E49032372209E9EC22D76BD28A00333031228D684AA1B2AC564C91A91564890220DF"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Text.Encodings.Web@10.0.7",
+      "externalReferences": [
+        {
+          "url": "https://dot.net/",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/dotnet",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Text.Json@10.0.7",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Text.Json",
+      "version": "10.0.7",
+      "description": "Provides high-performance and low-allocating types that serialize objects to JavaScript Object Notation (JSON) text and deserialize JSON text to objects, with UTF-8 support built-in. Also provides types to read and write JSON text encoded as UTF-8, and to create an in-memory document object model (DOM), that is read-only, for random access of the JSON elements within a structured view of the data.\n\nThe System.Text.Json library is built-in as part of the shared framework in .NET Runtime. The package can be installed when you need to use it in other target frameworks.",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "393B8542E3DCEF99D2CDEE8040B086D5E92A5EAC778B49BE3E8A6B52D724D6D19E12C7135808B781074493070BD60DC6C7A241263BF2CC600FBC667489C743C6"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Text.Json@10.0.7",
+      "externalReferences": [
+        {
+          "url": "https://dot.net/",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/dotnet",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.Threading.Tasks.Extensions@4.6.3",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.Threading.Tasks.Extensions",
+      "version": "4.6.3",
+      "description": "System.Threading.Tasks.Extensions",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "CD64475C80676DFCD013549A98DA16F57E4D8C4716FC9340B6F57118A7776DC83BD704159A8237A43ABE5946B603EB5E99748D0A6EFBD3B866005C3071894AD0"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.Threading.Tasks.Extensions@4.6.3",
+      "externalReferences": [
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "vcs"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:nuget/System.ValueTuple@4.6.2",
+      "authors": [
+        {
+          "name": "Microsoft"
+        }
+      ],
+      "name": "System.ValueTuple",
+      "version": "4.6.2",
+      "description": "System.ValueTuple",
+      "scope": "required",
+      "hashes": [
+        {
+          "alg": "SHA-512",
+          "content": "B0C7E728801EA4439ABF8E220944001025572C0D7F4D5342DFB83E9B1A3AF74FC11621F36EE1CF16F77227A31D103E022FB8AAE8DEE49656CC5158B9FE758988"
+        }
+      ],
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+      "purl": "pkg:nuget/System.ValueTuple@4.6.2",
+      "externalReferences": [
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "website"
+        },
+        {
+          "url": "https://github.com/dotnet/maintenance-packages",
+          "type": "vcs"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "HarmonyGuide@1.0.1.46",
+      "dependsOn": [
+        "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.7",
+        "pkg:nuget/Microsoft.Data.Sqlite.Core@7.0.20",
+        "pkg:nuget/Microsoft.Web.WebView2@1.0.2903.40",
+        "pkg:nuget/NetSparkleUpdater.Chaos.NaCl@0.9.4",
+        "pkg:nuget/NetSparkleUpdater.SparkleUpdater@3.1.0",
+        "pkg:nuget/NetSparkleUpdater.UI.WPF@3.1.0",
+        "pkg:nuget/SQLitePCLRaw.bundle_e_sqlcipher@2.1.4",
+        "pkg:nuget/SQLitePCLRaw.core@2.1.4",
+        "pkg:nuget/SQLitePCLRaw.lib.e_sqlcipher@2.1.4",
+        "pkg:nuget/SQLitePCLRaw.provider.dynamic_cdecl@2.1.4",
+        "pkg:nuget/System.Buffers@4.6.1",
+        "pkg:nuget/System.IO.Pipelines@10.0.7",
+        "pkg:nuget/System.Memory@4.6.3",
+        "pkg:nuget/System.Numerics.Vectors@4.6.1",
+        "pkg:nuget/System.Runtime.CompilerServices.Unsafe@6.1.2",
+        "pkg:nuget/System.Text.Encodings.Web@10.0.7",
+        "pkg:nuget/System.Text.Json@10.0.7",
+        "pkg:nuget/System.Threading.Tasks.Extensions@4.6.3",
+        "pkg:nuget/System.ValueTuple@4.6.2"
+      ]
+    },
+    {
+      "ref": "pkg:nuget/Microsoft.Bcl.AsyncInterfaces@10.0.7",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/Microsoft.Data.Sqlite.Core@7.0.20",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/Microsoft.Web.WebView2@1.0.2903.40",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/NetSparkleUpdater.Chaos.NaCl@0.9.4",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/NetSparkleUpdater.SparkleUpdater@3.1.0",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/NetSparkleUpdater.UI.WPF@3.1.0",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/SQLitePCLRaw.bundle_e_sqlcipher@2.1.4",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/SQLitePCLRaw.core@2.1.4",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/SQLitePCLRaw.lib.e_sqlcipher@2.1.4",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/SQLitePCLRaw.provider.dynamic_cdecl@2.1.4",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Buffers@4.6.1",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.IO.Pipelines@10.0.7",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Memory@4.6.3",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Numerics.Vectors@4.6.1",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Runtime.CompilerServices.Unsafe@6.1.2",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Text.Encodings.Web@10.0.7",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Text.Json@10.0.7",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.Threading.Tasks.Extensions@4.6.3",
+      "dependsOn": []
+    },
+    {
+      "ref": "pkg:nuget/System.ValueTuple@4.6.2",
+      "dependsOn": []
+    }
+  ]
+}

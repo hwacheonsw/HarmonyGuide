@@ -5,16 +5,16 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.45</title>
-      <pubDate>Thu, 16 Jul 2026 14:33:24 +0900</pubDate>
-      <description><![CDATA[아이콘/버튼 디자인을 변경합니다.]]></description>
+      <title>Version 1.0.1.46</title>
+      <pubDate>Thu, 16 Jul 2026 15:49:23 +0900</pubDate>
+      <description><![CDATA[상부 경계선 위 공간을 확장합니다.]]></description>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.45/HarmonyGuideSetup-1.0.1.45.exe"
-      	sparkle:version="1.0.1.45"
-      	sparkle:shortVersionString="1.0.1.45"
-      	sparkle:edSignature="Mm8dP2gmvO+WsXKn/QR1r9OGTLBfXlKtnTOIe4fJTGN6+8SbWR+Xlehlnf6R3I5eA0VDmReQEehePVgFbOx0DA=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.46/HarmonyGuideSetup-1.0.1.46.exe"
+      	sparkle:version="1.0.1.46"
+      	sparkle:shortVersionString="1.0.1.46"
+      	sparkle:edSignature="SxBMbqxsayBBaT1vTaLLvfkxFrUs7CROW+JUz6Ctcz7Uo0euQCujTqhrQYjCGdnocs8Gq4Ahf7QpPOvgvYgWBQ=="
       	sparkle:os="windows"
-      	length="16657043"
+      	length="16657111"
       	type="application/octet-stream"
       />
     </item>
