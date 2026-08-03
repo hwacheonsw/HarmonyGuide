@@ -5,16 +5,17 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.46</title>
-      <pubDate>Thu, 16 Jul 2026 15:49:23 +0900</pubDate>
-      <description><![CDATA[상부 경계선 위 공간을 확장합니다.]]></description>
+      <title>Version 1.0.1.49</title>
+      <pubDate>Mon, 03 Aug 2026 10:34:09 +0900</pubDate>
+      <description><![CDATA[An updater executable with rollback functionality has been added.
+롤백 기능을 수행하는 업데이터 실행파일을 추가합니다.]]></description>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.46/HarmonyGuideSetup-1.0.1.46.exe"
-      	sparkle:version="1.0.1.46"
-      	sparkle:shortVersionString="1.0.1.46"
-      	sparkle:edSignature="SxBMbqxsayBBaT1vTaLLvfkxFrUs7CROW+JUz6Ctcz7Uo0euQCujTqhrQYjCGdnocs8Gq4Ahf7QpPOvgvYgWBQ=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.49/HarmonyGuideSetup-1.0.1.49.exe"
+      	sparkle:version="1.0.1.49"
+      	sparkle:shortVersionString="1.0.1.49"
+      	sparkle:edSignature="tkLIL7voHPnKCZOp9DRDGsMMS0mnqgJTrlNsugCw7tzaJroUT6JBgxJnJbA7TrCcso3zAhgV1C3eCyG1Mb3XAQ=="
       	sparkle:os="windows"
-      	length="16657111"
+      	length="16670262"
       	type="application/octet-stream"
       />
     </item>
