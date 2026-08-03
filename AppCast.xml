@@ -5,17 +5,17 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.53</title>
-      <pubDate>Mon, 03 Aug 2026 14:25:43 +0900</pubDate>
-      <description><![CDATA[Corrected text in the update messages.
-업데이트 문구의 오타를 수정합니다.]]></description>
+      <title>Version 1.0.1.54</title>
+      <pubDate>Mon, 03 Aug 2026 15:19:09 +0900</pubDate>
+      <description><![CDATA[Fixed offline rollback errors.
+오프라인 롤백 오류를 수정합니다.]]></description>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.53/HarmonyGuideSetup-1.0.1.53.exe"
-      	sparkle:version="1.0.1.53"
-      	sparkle:shortVersionString="1.0.1.53"
-      	sparkle:edSignature="jl66erz5K5WWzZq+rdsjKkP9KyHXKLnShcZlpdUbuYZoglH4JJEe0IG7vdB6oWnjlrfoNleHILFVGhhrIjMbAA=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.54/HarmonyGuideSetup-1.0.1.54.exe"
+      	sparkle:version="1.0.1.54"
+      	sparkle:shortVersionString="1.0.1.54"
+      	sparkle:edSignature="o+6v/j6SX19xsSM4X0OIBHihavieWwcA81waM1n1jogTCfses9e8BpPrtcIl6aTd1r9vSyGPrHae0sdpGkBYCw=="
       	sparkle:os="windows"
-      	length="16670457"
+      	length="16672457"
       	type="application/octet-stream"
       />
     </item>
