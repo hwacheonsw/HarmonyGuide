@@ -1,2 +1,0 @@
-Corrected text in the update messages.
-업데이트 문구의 오타를 수정합니다.
