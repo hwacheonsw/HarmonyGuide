@@ -1,2 +1,0 @@
-The size of the rollback button has been adjusted.
-롤백 버튼의 사이즈를 조절합니다.

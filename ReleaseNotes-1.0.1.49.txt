@@ -1,2 +1,0 @@
-An updater executable with rollback functionality has been added.
-롤백 기능을 수행하는 업데이터 실행파일을 추가합니다.
