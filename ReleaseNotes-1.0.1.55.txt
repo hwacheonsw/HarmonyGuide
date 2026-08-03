@@ -1,0 +1,2 @@
+A manual rollback feature has been added.
+수동 롤백기능을 추가합니다.
