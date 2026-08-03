@@ -1,0 +1,2 @@
+Updated the text used in the update window.
+업데이트창에 사용된 문구를 변경합니다.
