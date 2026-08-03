@@ -1,2 +1,0 @@
-Fixed offline rollback errors.
-오프라인 롤백 오류를 수정합니다.
