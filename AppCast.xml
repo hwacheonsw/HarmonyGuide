@@ -5,17 +5,17 @@
     <description>HarmonyGuide update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1.60</title>
-      <pubDate>Thu, 22 Oct 2026 14:46:33 +0900</pubDate>
-      <description><![CDATA[Add Software category + 4 H-Simul 5X videos
-소프트웨어 카테고리 생성, H-Simul5X 영상 4개 추가]]></description>
+      <title>Version 1.0.1.61</title>
+      <pubDate>Fri, 23 Oct 2026 11:55:47 +0900</pubDate>
+      <description><![CDATA[Add H-Simul 5X Project Creation Tutorial
+/ H-Simul 5X 프로젝트 생성 튜토리얼 추가]]></description>
       <enclosure
-      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.60/HarmonyGuideSetup-1.0.1.60.exe"
-      	sparkle:version="1.0.1.60"
-      	sparkle:shortVersionString="1.0.1.60"
-      	sparkle:edSignature="UOVBvhDXJ3L7uv5nMW7yhaNDzu5nL0S8Ou/BD1NLDoLNK7IjB8cdW9/3fHm6K5+mmSShDBuVj0aJPEyZlayKCg=="
+      	url="https://github.com/hwacheonsw/HarmonyGuide/releases/download/1.0.1.61/HarmonyGuideSetup-1.0.1.61.exe"
+      	sparkle:version="1.0.1.61"
+      	sparkle:shortVersionString="1.0.1.61"
+      	sparkle:edSignature="S25PkWgGYS6TFmECS+ENaAjbhjPQRcNG3Ma4xfQOqjRSnlih+dOS0AgYy/wvlixgHIxalNB5qW8fuZdwTd9IAQ=="
       	sparkle:os="windows"
-      	length="27241769"
+      	length="27242467"
       	type="application/octet-stream"
       />
     </item>
