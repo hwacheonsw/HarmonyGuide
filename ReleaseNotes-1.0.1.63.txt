@@ -1,0 +1,2 @@
+Improved updater UI
+업데이터 UI 개선
